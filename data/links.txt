@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/data
+
+https://www.kaggle.com/code/nhunguyen1906/logistic-regression-bank-marketing/notebook
