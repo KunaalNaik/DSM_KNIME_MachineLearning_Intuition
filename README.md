@@ -1,4 +1,4 @@
-# L0 - Machine Learning Intution using KNIME
+# L0 - Machine Learning Intuition using KNIME
 
 ## Objective
 
@@ -10,8 +10,14 @@
 	+ Forecasting
 	+ Text Classification
 
-## Data Links
+### Classification
+Classification models are a subset of supervised machine learning . 
+A classification model reads some input and generates an output that classifies the input into some category. 
+For example, a model might read an email and classify it as either spam or not — binary classification.
 
+### Regression
+Regression is a technique for investigating the relationship between independent variables or features and a dependent variable or outcome. 
+It's used as a method for predictive modelling in machine learning, in which an algorithm is used to predict continuous outcomes.
 
 
 ## Next Steps

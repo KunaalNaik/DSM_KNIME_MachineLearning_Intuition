@@ -1,0 +1,3 @@
+
+https://www.knime.com/blog/time-series-analysis-with-components
+https://hub.knime.com/knime/spaces/Examples/latest/00_Components/Time%20Series~1415IA5ZFtVXlwg_/
